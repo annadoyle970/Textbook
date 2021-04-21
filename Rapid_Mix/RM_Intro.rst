@@ -5,9 +5,9 @@ Rapid Mix Introduction
 ************************
 
 This chapter is currently home for the prerequisites of successful flocculation. Those prerequisites include:
- - ensuring that the pH is in the correct range for coagulant nanoparticle formation after the coagulant has been added to the raw water.
- - increasing the coagulant dose to account for the coagulant interactions with dissolved species that effectively cover some of the coagulant nanoparticle surfaces.
- - increasing the coagulant dose to account for the available surface area of suspended particles to achieve.
+ - Ensuring that the pH is in the correct range for coagulant nanoparticle formation after the coagulant has been added to the raw water.
+ - Increasing the coagulant dose to account for the coagulant interactions with dissolved species that effectively cover some of the coagulant nanoparticle surfaces.
+ - Increasing the coagulant dose to account for the available surface area of suspended particles to achieve.
  - If there are multiple treatment trains, mixing the coagulant with the raw water so that parallel treatment trains receive the same concentration of coagulant (perhaps the conventional role of rapid mix).
  - Transporting the coagulant nanoparticles to attach to suspended particles.
 
